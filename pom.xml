@@ -92,7 +92,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.aaron.itoken.zipkin.ZipKinApplication</mainClass>
+                    <mainClass>com.aaron.itoken.zipkin.ZipkinApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
